@@ -11,7 +11,7 @@ Hacettepe University 2nd year undergraduate student. Currently focused on mobile
 
 <h1 align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,firebase,python,js,react,cs,cpp,unity&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,java,spring,firebase,python,js,react,node,cs,cpp,unity&perline=4)](https://skillicons.dev)
 
 </h1>
 <!--
